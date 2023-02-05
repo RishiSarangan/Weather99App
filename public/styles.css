@@ -1,0 +1,98 @@
+@media only screen and (min-width: 480px){
+  *{
+    font-family:"Poppins";
+  }
+  
+  html {
+    position:relative; 
+    background-color: rgb(184, 209, 230);
+    font-family: "Poppins";
+    height: 100%;
+  }
+  
+  body { 
+    margin-left: 7%;
+    margin-right: 7%;
+    background-color: rgb(184, 209, 230);
+  }
+  
+  h1 {
+    color: #144272;
+    padding: 10px;
+  }
+  
+  .box{
+    margin-top: 10%;
+    background-color: rgb(184, 209, 230);
+  }
+  
+  
+  /* navbar stuff starts*/
+  
+  .navbar{
+    width: 100%;
+    font-family: "Poppins";
+    font-weight: 400;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-size: 3rem;
+  }
+  /* navbar stuff ends*/
+  
+  /* title box stuff starts*/
+  
+  
+  .titlebox{
+    width: 20%;
+    position: absolute;
+    margin-left: 17%;
+    background-color: rgb(184, 209, 230);
+  }
+  
+  /* title box stuff ends*/
+  
+  /* form box stuff starts*/
+  .formbox{
+    margin-left: 50%;
+    width: 30%;
+  }
+  /* form box stuff ends*/
+  
+  
+  .datebox{
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  #button{
+    margin-top: 3%;
+    margin-left: 3%;
+    position: absolute;
+  }
+  
+  #titles{
+    margin-top: 82%;
+    text-align: center;
+  }
+  
+  #rowbox{
+    /* margin-left: 10%; */
+    margin-top: 7%;
+    background-color: rgb(184, 209, 230);
+  }
+  
+  #weatherimage{
+    width: 40%;
+  }
+  
+  #cards{
+    /* align-items: center; */
+    text-align: center;
+    padding-bottom: 10%;
+  }
+}
+
+
+
+
+
